@@ -51,14 +51,14 @@ Os dados utilizados foram extraídos de um ERP do setor da construção civil, p
 
 ---
 
-##  Desenvolvido por
+##  Desenvolvido por:
 
 **Thainara Geraldini**
 
 Estudante de Análise e Desenvolvimento de Sistemas em transição para a área de Dados.
 
 
-## Observação
+## Observação:
 
 Os dados utilizados neste projeto foram extraídos de um ERP real do setor da construção civil.
 
