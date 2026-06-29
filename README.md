@@ -47,6 +47,22 @@ Imagens
     └── Prints das consultas e resultados
 ```
 
+## Modelo Estrela
+
+![Modelo Estrela](modelo_estrela.jpg)
+
+---
+
+## DER - Diagrama Entidade Relacionamento
+
+![DER](der_modelagem.jpg)
+
+---
+
+## Resultado das Consultas
+
+![Consultas SQL](consultas_sql.jpg)
+
 ---
 
 ##  Principais Análises:
