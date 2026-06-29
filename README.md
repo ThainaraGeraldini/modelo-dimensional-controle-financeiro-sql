@@ -56,3 +56,12 @@ Os dados utilizados foram extraídos de um ERP do setor da construção civil, p
 **Thainara Geraldini**
 
 Estudante de Análise e Desenvolvimento de Sistemas em transição para a área de Dados.
+
+
+## Observação
+
+Os dados utilizados neste projeto foram extraídos de um ERP real do setor da construção civil.
+
+Por questões de confidencialidade e proteção das informações da empresa, os dados não foram disponibilizados neste repositório.
+
+Este projeto tem como objetivo demonstrar conhecimentos em modelagem dimensional, SQL e análise de dados.
