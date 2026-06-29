@@ -29,11 +29,17 @@ Os dados utilizados foram extraídos de um ERP do setor da construção civil, p
 ## Estrutura do Projeto:
 
 ```text
- SQL
-    ├── Scripts de criação das tabelas
-    ├── Scripts de inserção de dados
-    └── Consultas analíticas
+SQL
+├── criacao_tabelas.sql
+└── consultas_analiticas.sql
 
+Documentacao
+└── portfolio_sql_controle_financeiro.pdf
+
+Imagens
+├── imagem DER.jpg
+├── MODELO ESTRELA - FATOS E DIMENSOES.jpg
+└── consultas sql.jpg
  DER
     └── Modelo entidade relacionamento
 
