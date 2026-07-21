@@ -1,4 +1,4 @@
-#SQL-Financial-Data-Warehouse
+### SQL-Financial-Data-Warehouse
 
 ## Sobre o Projeto:
 
