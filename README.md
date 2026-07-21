@@ -1,4 +1,4 @@
-# Modelo Dimensional para Controle Financeiro
+#SQL-Financial-Data-Warehouse
 
 ## Sobre o Projeto:
 
