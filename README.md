@@ -33,9 +33,6 @@ SQL
 ├── criacao_tabelas.sql
 └── consultas_analiticas.sql
 
-Documentacao
-└── portfolio_sql_controle_financeiro.pdf
-
 Imagens
 ├── imagem DER.jpg
 ├── MODELO ESTRELA - FATOS E DIMENSOES.jpg
